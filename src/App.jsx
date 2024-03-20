@@ -28,7 +28,7 @@ function App() {
         </div>
         <div className="flex justify-between items-center">
           <div>
-            <input type="checkbox" />
+            <input type="checkbox" className="accent-orange-100"/>
             <label>Remember Me</label>
           </div>
           <div>
